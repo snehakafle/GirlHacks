@@ -1,0 +1,2 @@
+# GirlHacks
+Git Workshop Example
